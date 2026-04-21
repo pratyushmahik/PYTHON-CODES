@@ -1,0 +1,5 @@
+a=int(input("ENTER NUMB 1:"))
+b=int(input("ENTER NUMB 2:"))
+print("NUMB 1 :",a)
+print("NUMB 2 :",b)
+print("THE AVERAGE OF A AND B IS :",(a+b)/2)

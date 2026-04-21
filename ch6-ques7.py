@@ -1,0 +1,10 @@
+# WRITE A PROGRAM TO CHECK WHETHER A POST IS TALKING ABOUT CARS OR NOT.
+
+post=input("ENTER THE POST :")
+
+if("cars".upper() in post.upper()):             #HERE WE HAVE USED .UPPER() FUNCTION TO CHANGE BOTH THE POST AND THE ENTERED CHARACTER BEING CHECKED
+                                                #SO THAT EITHER IF WE WRITE THE CHARACTER TO BE SEARCHED IN LOWER CASE OR UPPER CASE IT GETS DETECTED AND 
+                                                #DON'T SHOW AN ERROR!!!!
+    print("THIS POST IS TALKING ABOUT CARS")
+else:
+    print("THIS POST IS NOT TALKING ABOUT CARS")    

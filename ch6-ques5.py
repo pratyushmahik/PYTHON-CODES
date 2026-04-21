@@ -1,0 +1,10 @@
+# WRITE A PROGRAM TO FIND WHETHER A GIVEN NAME IS PRESENT IN A LIST OR NOT
+
+list=["SAKSHAM","PRATYUSH","ATIF","SHLOK","CHINMAYEE"]
+name=input("ENTER THE NAME: ")
+
+if(name in list):
+    print("YOUR NAME IS IN THE LIST ")
+
+else:
+    print("YOUR NAME IS NOT IN THE LIST")
