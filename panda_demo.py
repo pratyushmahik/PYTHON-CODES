@@ -1,0 +1,24 @@
+# WHAT IS PANDAS?
+# PANDAS IS A PYTHON LIBRARY USED FOR WORKING WITH DATA SETS 
+# IT HAS FUNCTIONS FOR ANALYZING,CLEANING,EXPLORING AND MANIPULATING DATA
+# PANDAS IS USUALLY IMPORTED UNDER THE pd alias
+
+# IT GIVES US ANSWERS AS 
+
+# WHAT IS THE USE OF PANDAS?
+# PANDAS ALLOWS US TO ANALYZE BIG DATA AND MAKE THEM READABLE AND RELEVANT AS 
+# ITS VERY IMPORTANT IN DATA SCIENCE
+
+# import pandas
+
+# mydataset={
+#     'cars':["BMW","VOLVO","FORD"],
+#     'passings':[3,7,2]
+# }
+# myvar=pandas.DataFrame(mydataset)
+# print(myvar)
+
+
+import pandas as pd
+s=pd.Series([1,2,3,4,5])
+print(s)

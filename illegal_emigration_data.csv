@@ -1,0 +1,46 @@
+Year,Country,Attempt_Count,Successful_Crossings,Arrests,Deaths,Primary_Route,Reason_For_Emigration,Average_Age,Gender
+2010,CountryA,2300,1400,700,200,Sea,Unemployment,29,Male
+2010,CountryB,1800,1100,500,200,Land,Political Instability,32,Female
+2010,CountryC,900,600,250,50,Air,Poverty,27,Male
+2011,CountryA,2500,1550,750,200,Sea,Poverty,28,Female
+2011,CountryB,1900,1150,600,150,Land,Conflict,33,Male
+2011,CountryC,1000,650,280,70,Air,Unemployment,29,Female
+2012,CountryA,2700,1650,800,250,Sea,Economic Crisis,30,Male
+2012,CountryB,2000,1250,650,150,Land,Political Instability,31,Female
+2012,CountryC,1100,700,300,100,Air,Poverty,28,Male
+2013,CountryA,3000,1850,900,250,Sea,Unemployment,29,Female
+2013,CountryB,2200,1300,700,200,Land,Conflict,34,Male
+2013,CountryC,1200,750,350,100,Air,Economic Crisis,30,Female
+2014,CountryA,3200,1950,950,300,Sea,Poverty,28,Male
+2014,CountryB,2400,1450,750,200,Land,Political Instability,35,Female
+2014,CountryC,1300,800,360,140,Air,Crime Rate,31,Male
+2015,CountryA,3500,2100,1000,300,Sea,Unemployment,28,Female
+2015,CountryB,2600,1550,800,250,Land,Conflict,33,Male
+2015,CountryC,1500,900,400,200,Air,Poverty,27,Female
+2016,CountryA,3800,2250,1100,350,Sea,Economic Crisis,29,Male
+2016,CountryB,2750,1650,850,250,Land,Political Instability,34,Female
+2016,CountryC,1600,950,450,200,Air,Unemployment,28,Male
+2017,CountryA,4000,2400,1200,350,Sea,Poverty,27,Female
+2017,CountryB,3000,1800,900,300,Land,Conflict,36,Male
+2017,CountryC,1700,1000,500,200,Air,Economic Crisis,30,Female
+2018,CountryA,4200,2550,1300,300,Sea,Unemployment,28,Male
+2018,CountryB,3300,2000,1000,300,Land,Political Instability,35,Female
+2018,CountryC,1900,1100,550,250,Air,Crime Rate,31,Male
+2019,CountryA,4500,2750,1350,400,Sea,Poverty,27,Female
+2019,CountryB,3500,2100,1100,300,Land,Conflict,36,Male
+2019,CountryC,2100,1200,600,300,Air,Economic Crisis,30,Female
+2020,CountryA,4300,2600,1400,300,Sea,Unemployment,29,Male
+2020,CountryB,3200,1900,1000,300,Land,Political Instability,34,Female
+2020,CountryC,2000,1150,650,200,Air,Poverty,32,Female
+2021,CountryA,4600,2800,1500,300,Sea,Economic Crisis,28,Female
+2021,CountryB,3400,2100,1050,250,Land,Conflict,35,Male
+2021,CountryC,2200,1300,700,200,Air,Unemployment,29,Male
+2022,CountryA,5000,3100,1600,300,Sea,Poverty,27,Male
+2022,CountryB,3600,2200,1100,300,Land,Political Instability,36,Female
+2022,CountryC,2400,1400,750,250,Air,Economic_Crisis,31,Female
+2023,CountryA,5200,3300,1700,300,Sea,Unemployment,28,Female
+2023,CountryB,3800,2350,1200,250,Land,Conflict,37,Male
+2023,CountryC,2600,1500,800,300,Air,Poverty,30,Male
+2024,CountryA,5400,3500,1800,300,Sea,Economic Crisis,29,Male
+2024,CountryB,4000,2500,1250,250,Land,Political Instability,36,Female
+2024,CountryC,2800,1650,850,300,Air,Unemployment,31,Female
